@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## HTML-selects
 
-You can use the [editor on GitHub](https://github.com/Checco2212/HTML-selects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Whenever you need a quick access to common HTML selects needs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Languages
 
-### Markdown
+The languages select is the first code uploaded to this page. It was created based on the ISO 639-1 standard and a JSON version of it by the Github user jrnk. I just fixed a couple of special characters that got wrongly encoded and added the "Most common" section, based on the 2018 study by w3techs.com about the "Usage of content languages for websites".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More content is going to be added in the future!
 
-```markdown
-Syntax highlighted code block
+### Licence
 
-# Header 1
-## Header 2
-### Header 3
+CC0 - All the work is available for free for anybody. No attribution required, unless specified by the creators in the credits. All the work is still property of the original authors.
 
-- Bulleted
-- List
+### Contact
+ 
+For any problem with the repo or the content, file an issue. I'll be happy to help you!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Checco2212/HTML-selects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
