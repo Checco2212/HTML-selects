@@ -10,7 +10,7 @@ The languages select is the first code uploaded to this page. It was created bas
 
 ### Licence
 
-CC0 - All the work is available for free for anybody. No attribution required, unless specified by the creators in the credits. All the work is still property of the original authors.
+CC0 - All the work is available for free to anyone. No attribution required, unless specified by the creators in the credits. All the work is still property of the original authors.
 
 ### Contact
  
